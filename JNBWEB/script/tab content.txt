@@ -1,0 +1,255 @@
+			<!--Tab content-->	
+				<div id="foam" class="tabcontent">
+					<br />
+					<h1>Foam Packs</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="fomo\175MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="fomo\250MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="fomo\300MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="fomo\500MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="foil" class="tabcontent">
+					<br />
+					<h1>Foil Packs</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.jpg" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="spice" class="tabcontent">
+					<br />
+					<h1>Spice Packs</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Crown Spices</u></th>
+							</tr>
+							<tr>
+								<td><img src="spice\SIXGUNGRILL1KG.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="spice\NATIONALDRYWORS1KG.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="spice\SAFARIDRYWORS1KG.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="spice\NATCLASSICBOEREWORS1KG.jpg" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Six Gun Grill<br />1KG</td>
+								<td>National Drywors<br />1KG</td>
+								<td>Safari Drywors<br />1KG</td>
+								<td>Nat Classic<br />Boerewors 1KG</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="canned" class="tabcontent">
+					<br />
+					<h1>Canned Packs</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="plas" class="tabcontent">
+					<br />
+					<h1>Plastic Products</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="glass" class="tabcontent">
+					<br />
+					<h1>Glassware</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="sauces" class="tabcontent">
+					<br />
+					<h1>Sauces</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="fridge" class="tabcontent">
+					<br />
+					<h1>Refridgerated/Frozen Contents</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="175MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="250MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="300MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+								<td><img src="500MLFOMOCUP.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+
+				<div id="soap" class="tabcontent">
+					<br />
+					<h1>Soap Products</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="DISHWASHLIQ5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="PINEGEL5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="BLEACH5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="ANTIBACTERIALHANDSOAP5L.png" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Foam cup 175Ml</td>
+								<td>Foam cup 250Ml</td>
+								<td>Foam cup 300Ml</td>
+								<td>Foam cup 500Ml</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="chemical" class="tabcontent">
+					<br />
+					<h1>Chemical Contents</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="chemical\DISHWASHLIQ5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="chemical\PINEGEL5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="chemical\BLEACH5L.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="chemical\ANTIBACTERIALHANDSOAP5.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Dish Washing<br />Liqued 5L</td>
+								<td>Pine Gel<br />5L</td>
+								<td>Bleach 5L</td>
+								<td>Antibacterial<br />Hand Soap 5L</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
+				<div id="paper" class="tabcontent">
+					<br />
+					<h1>Paper Products</h1>
+						<table cellspacing="30">
+							<tr>
+								<th><u>Foam cups</u></th>
+							</tr>
+							<tr>
+								<td><img src="paper\TWINSAVER1PLY.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="paper\DENOVA2PLY.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="paper\WRAPPEDTWINSAVER2PLY.jpg" style="width:100px;height:100px;" /></td>
+								<td><img src="paper\MINITIDYWIPEROLLTWINSAVER.JPG" style="width:100px;height:100px;" /></td>
+							</tr>
+							<tr>
+								<td>Twinsaver 1ply<br />Toilet Paper</td>
+								<td>Denova 2ply<br />Toilet paper</td>
+								<td>Wrapped Twinsaver<br />Toiletpaper 2ply</td>
+								<td>Twinsaver Mini<br />Tidy Wipe</td>
+							</tr>
+
+						</table>
+					<p>currently no added stock</p>
+				</div>
